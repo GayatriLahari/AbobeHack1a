@@ -1,0 +1,115 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "155",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "It can be seen that after splitting through tf.unstack, the split tensor",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "shape becomes [35, 8], that is, the class dimension disappears, which is",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "different from tf.split.",
+      "page": 26
+    },
+    {
+      "level": "H1",
+      "text": "5.2  Common Statistics",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "5.2.1  Norm",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "1 \ufffd \ufffd i",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "\ufffd \ufffd",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "5.2.2  Max, Min, Mean, and\u00a0Sum",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "5.3  Tensor Comparison",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "5.4  Fill and\u00a0Copy",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "5.4.1  Fill",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "5.4.2  Copy",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "5.5  Data Limiting",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "5.6  Advanced Operations",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "5.6.1  tf.gather",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "5.6.2  tf.gather_nd",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "5.6.3  tf.boolean_mask",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "5.6.4  tf.where",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "5.6.5  tf.scatter_nd",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "5.6.6  tf.meshgrid",
+      "page": 51
+    },
+    {
+      "level": "H1",
+      "text": "5.7  Load Classic Datasets",
+      "page": 53
+    }
+  ]
+}
