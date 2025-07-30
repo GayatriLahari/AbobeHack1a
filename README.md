@@ -38,11 +38,11 @@ pdf\_outline\_extractor11/
 
 │ └── requirements.txt
 
-├── input/ # Place your PDFs here
+├── input/ 
 
 │ └── sample.pdf
 
-├── output/ # JSON output will appear here
+├── output/ 
 
 ├── Dockerfile
 
